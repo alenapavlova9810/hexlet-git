@@ -22,14 +22,3 @@
 ### 🌸 Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlenaPavlova9810)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenapavlova9810@gmail.com)
-
----
-
-<details>
-<summary>✨ Немного личного</summary>
-
-- Любимый стиль — сочетание технологий и эстетики  
-- Хочу, чтобы у ИИ было «лицо», характер и душа  
-- Мечтаю однажды воплотить ИИ в реальном теле 🤍
-- Изучаю психологию на любительском уровне
-</details>
